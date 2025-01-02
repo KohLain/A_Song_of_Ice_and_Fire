@@ -1,0 +1,313 @@
+{
+    "Andar Royce": null,
+    "Eddard Stark": null,
+    "Gared": {
+        "name": "Gared",
+        "gender": "Male",
+        "race": null,
+
+        "alias(es)": null,
+
+        "house(s)": null,
+        "allegiance(s)": [{
+            "name": "Night's Watch",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0,
+                    "reason": "Deserted"
+                }]
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0,
+                    "reason": "Deserted"
+                }]
+            }
+        }],
+        "title(s)": null,
+
+        "family": null,
+
+        "culture(s)": [{
+            "name": "Westerosi",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "religion(s)": null,
+
+        "physical_description": null,
+
+        "birth": {
+            "year": "~241-246 AC",
+            "place": "Westeros"
+        },
+        "death": {
+            "year": 298,
+            "place": "Outside Winterfell",
+            "cause": {
+                "type": "Character(s)",
+                "name": ["Eddard Stark"]
+            }
+        }
+    },
+    "Jeor Mormont": null,
+    "Robar Royce": null,
+    "Waymar Royce": {
+        "name": "Waymar Royce",
+        "gender": "Male",
+        "race": "First Men",
+
+        "alias(es)": null,
+
+        "house(s)": [{
+            "name": "House Royce",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "allegiance(s)": [{
+            "name": "Night's Watch",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "title(s)": [{
+            "name": "Ser",
+            "rank": "Noble",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+
+        "family": {
+            "father(s)": [{
+                "name": "Yohn Royce",
+                "type": "Biological",
+                "officialy": {
+                    "from": [{
+                        "book_name": "A Game of Thrones",
+                        "chapter_number": 0
+                    }],
+                    "to": null
+                },
+                "known": {
+                    "from": [{
+                        "book_name": "A Game of Thrones",
+                        "chapter_number": 0
+                    }],
+                    "to": null
+                }
+            }],
+            "mother(s)": null,
+            "siblings": [{
+                "name": "Andar Royce",
+                "type": "Biological",
+                "officialy": {
+                    "from": [{
+                        "book_name": "A Game of Thrones",
+                        "chapter_number": 0
+                    }],
+                    "to": null
+                },
+                "known": {
+                    "from": [{
+                        "book_name": "A Game of Thrones",
+                        "chapter_number": 0
+                    }],
+                    "to": null
+                }
+            }, {
+                "name": "Robar Royce",
+                "type": "Biological",
+                "officialy": {
+                    "from": [{
+                        "book_name": "A Game of Thrones",
+                        "chapter_number": 0
+                    }],
+                    "to": null
+                },
+                "known": {
+                    "from": [{
+                        "book_name": "A Game of Thrones",
+                        "chapter_number": 0
+                    }],
+                    "to": null
+                }
+            }, {
+                "name": "Ysilla Royce",
+                "type": "Biological",
+                "officialy": {
+                    "from": [{
+                        "book_name": "A Game of Thrones",
+                        "chapter_number": 0
+                    }],
+                    "to": null
+                },
+                "known": {
+                    "from": [{
+                        "book_name": "A Game of Thrones",
+                        "chapter_number": 0
+                    }],
+                    "to": null
+                }
+            }],
+            "spouse(s)": null,
+            "lover(s)": null,
+            "child(ren)": null
+        },
+
+        "culture(s)": [{
+            "name": "Valemen",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "religion(s)": null,
+
+        "physical_description": {
+            "hair": null,
+            "eyes": "Grey"
+        },
+
+        "birth": {
+            "year": "278 AC or 279 AC",
+            "place": "Runestone"
+        },
+        "death": {
+            "year": 297,
+            "place": "The Haunted Forest",
+            "cause": {
+                "type": "Character(s)",
+                "name": ["Unknown (The Other)"]
+            }
+        }
+    },
+    "Will": {
+        "name": "Will",
+        "gender": "Male",
+        "race": null,
+
+        "alias(es)": null,
+
+        "house(s)": null,
+        "allegiance(s)": [{
+            "name": "Night's Watch",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "title(s)": null,
+
+        "family": null,
+        
+        "culture(s)": [{
+            "name": "Rivermen",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "religion(s)": null,
+
+        "physical_description": null,
+
+        "birth": null,
+        "death": {
+            "year": 297,
+            "place": "The Haunted Forest",
+            "cause": {
+                "type": "Character(s)",
+                "name": null
+            }
+        }
+    },
+    "Yohn Royce": null,
+    "Ysilla Royce": null
+}

@@ -1,0 +1,9 @@
+{
+    "Westeros": {
+        "continent_name": "Westeros",
+        "regions": [{
+            "region_name": "The North",
+            "locations": ["The Haunted Forest"]
+        }]
+    }
+}
