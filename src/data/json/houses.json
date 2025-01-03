@@ -1,0 +1,203 @@
+{
+    "House Arryn": null,
+    "House Baelish": null,
+    "House Coldwater": null,
+    "House Mallister": {
+        "name": "House Mallister of Seagard",
+        "motto": "Above the Rest",
+        "coat of arms": "A silver eagle displayed on indigo",
+        "seat": [{
+            "name": "Seagard",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "head": [{
+            "name": "Jason Mallister",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "overlord": [{
+            "name": "House Tully",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }, {
+            "name": "House Baelish",
+            "officialy": {
+                "from": null,
+                "to": null
+            },
+            "known": {
+                "from": null,
+                "to": null
+            }
+        }],
+        "vassal(s)": null,
+        "cadet branch(es)": null,
+        "founder(s)": null,
+        "founded age": null
+    },
+    "House Royce": {
+        "name": "House Royce of Runestone",
+        "motto": "We Remember",
+        "coat of arms": "Black iron studs on bronze, bordered with rune",
+        "seat": [{
+            "name": "Runestone",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "head": [{
+            "name": "Yohn Royce",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "overlord": [{
+            "name": "House Arryn",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "vassal(s)": [{
+            "name": "House Coldwater",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }, {
+            "name": "House Shett of Gull Tower",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }, {
+            "name": "House Tollett",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "cadet branch(es)": [{
+            "name": "House Royce of the Gates of the Moon",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "founder(s)": null,
+        "founded age": "Dawn Age"
+    },
+    "House Royce of the Gates of the Moon": null,
+    "House Shett of Gull Tower": null,
+    "House Tollett": null,
+    "House Tully": null
+}

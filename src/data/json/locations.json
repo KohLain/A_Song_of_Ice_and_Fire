@@ -1,9 +1,45 @@
 {
     "Westeros": {
         "continent_name": "Westeros",
-        "regions": [{
+        "region(s)": [{
+            "region_name": "Beyond the Wall",
+            "location(s)": [{
+                "location_name": "The Haunted Forest",
+                "sub_locations": null
+            }]
+        }, {
+            "region_name": "The Reach",
+            "location(s)": [{
+                    "location_name": "Highgarden",
+                    "sub_locations": null
+                }, {
+                    "location_name": "Oldtown",
+                    "sub_locations": ["The Citadel"]
+                }]
+        }, {
+            "region_name": "The Riverlands",
+            "location(s)": [{
+                "location_name": "Seagard",
+                "sub_locations": null
+            }]
+        }, {
             "region_name": "The North",
-            "locations": ["The Haunted Forest"]
+            "location(s)": [{
+                "location_name": "Outside Winterfell",
+                "sub_locations": null
+            }]
+        }, {
+            "region_name": "The Vale",
+            "location(s)": [{
+                "location_name": "Runestone",
+                "sub_locations": null
+            }]
+        }, {
+            "region_name": "The Wall",
+            "location(s)": [{
+                "location_name": "Castle Black",
+                "sub_locations": null
+            }]
         }]
     }
 }

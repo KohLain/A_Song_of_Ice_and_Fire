@@ -1,0 +1,46 @@
+{
+    "Night's Watch": {
+        "name": "Night's Watch",
+        "seat": [{
+            "name": "Castle Black",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }],
+        "founder(s)": null,
+        "leader(s)": [{
+            "name": "Jeor Mormont",
+            "officialy": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            },
+            "known": {
+                "from": [{
+                    "book_name": "A Game of Thrones",
+                    "chapter_number": 0
+                }],
+                "to": null
+            }
+        }]
+    },
+    "Maesters": {
+        "name": "Order of Maesters",
+        "seat": "The Citadel",
+        "founder(s)": ["Peremore Hightower"],
+        "leader(s)": null
+    }
+}

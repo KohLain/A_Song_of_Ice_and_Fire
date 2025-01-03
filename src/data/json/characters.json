@@ -1,4 +1,5 @@
 {
+    "Aemon Targaryen (son of Maekar I)": null,
     "Andar Royce": null,
     "Eddard Stark": null,
     "Gared": {
@@ -72,8 +73,11 @@
             }
         }
     },
+    "Jason Mallister": null,
     "Jeor Mormont": null,
+    "Peremore Hightower": null,
     "Robar Royce": null,
+    "Robert I Baratheon": null,
     "Waymar Royce": {
         "name": "Waymar Royce",
         "gender": "Male",
